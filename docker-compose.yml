@@ -1,0 +1,9 @@
+services:
+  remnawave-mcp:
+    build: .
+    ports:
+      - "3100:3100"
+    environment:
+      - REMNAWAVE_BASE_URL=${REMNAWAVE_BASE_URL}
+      - REMNAWAVE_API_TOKEN=${REMNAWAVE_API_TOKEN}
+    restart: unless-stopped
