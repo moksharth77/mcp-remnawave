@@ -1,4 +1,4 @@
-# remnawave-mcp
+# mcp-remnawave 
 
 [English](#english) | [Русский](#русский)
 
@@ -26,8 +26,8 @@ MCP server ([Model Context Protocol](https://modelcontextprotocol.io)) providing
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/remnawave-mcp.git
-cd remnawave-mcp
+git clone https://github.com/TrackLine/mcp-remnawave.git
+cd mcp-remnawave 
 npm install
 npm run build
 ```
@@ -265,8 +265,8 @@ MCP-сервер ([Model Context Protocol](https://modelcontextprotocol.io)), п
 ### Установка
 
 ```bash
-git clone https://github.com/your-username/remnawave-mcp.git
-cd remnawave-mcp
+git clone https://github.com/TrackLine/mcp-remnawave.git
+cd mcp-remnawave 
 npm install
 npm run build
 ```
